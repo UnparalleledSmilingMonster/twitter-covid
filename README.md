@@ -1,6 +1,6 @@
-# ID2221-Group7
+# Twitter COVID-19 analysis
 
-Welcome to the repo for the group tasks assigned to the group 7 whose members are :
+Welcome to the repo, the contributors of this project are :
 - Timothée LY
 - Oliver CHIN WEE GUI
 - Erik KONGPACHITH
